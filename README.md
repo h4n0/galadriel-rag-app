@@ -11,14 +11,14 @@ python rag_app.py
 
 ## Query and result
 
-###Query
+### Query
 
 Explain Galadriel's technology stack, strategy and vision
 
-###Context
+### Context
 https://docs.galadriel.com/litepaper
 
-###Result 
+### Result 
 
 Based on the provided context, here's an explanation of Galadriel's technology stack, strategy, and vision:
 
